@@ -1,0 +1,24 @@
+init.pbi: \
+  C:\Users\Innova_Emb\STM32Cube\STM32MP157F-DK2\01_Project\Middlewares\Third_Party\OpenAMP\libmetal\lib\init.c \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c\string.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c\ycheck.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c\yvals.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c\DLib_Defaults.h \
+  C:\\Program\ Files\ (x86)\\IAR\ Systems\\Embedded\ Workbench\ 8.3\\arm\\inc\\c\\DLib_Config_Full.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c\DLib_Product.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c\ysizet.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c\DLib_Product_string.h \
+  C:\Users\Innova_Emb\STM32Cube\STM32MP157F-DK2\01_Project\EWARM/../Middlewares/Third_Party/OpenAMP/libmetal/lib/include\metal/sys.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c\stdlib.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c\DLib_Product_stdlib.h \
+  C:\Users\Innova_Emb\STM32Cube\STM32MP157F-DK2\01_Project\EWARM/../Middlewares/Third_Party/OpenAMP/libmetal/lib/include\metal/log.h \
+  C:\Users\Innova_Emb\STM32Cube\STM32MP157F-DK2\01_Project\EWARM/../Middlewares/Third_Party/OpenAMP/libmetal/lib/include\metal/system/generic/log.h \
+  C:\Users\Innova_Emb\STM32Cube\STM32MP157F-DK2\01_Project\EWARM/../Middlewares/Third_Party/OpenAMP/libmetal/lib/include\metal/list.h \
+  C:\Users\Innova_Emb\STM32Cube\STM32MP157F-DK2\01_Project\EWARM/../Middlewares/Third_Party/OpenAMP/libmetal/lib/include\metal/system/generic/sys.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c\limits.h \
+  C:\Users\Innova_Emb\STM32Cube\STM32MP157F-DK2\01_Project\EWARM/../Middlewares/Third_Party/OpenAMP/libmetal/lib/include\metal/errno.h \
+  C:\Users\Innova_Emb\STM32Cube\STM32MP157F-DK2\01_Project\EWARM/../Middlewares/Third_Party/OpenAMP/libmetal/lib/include\metal/compiler/iar/errno.h \
+  C:\Users\Innova_Emb\STM32Cube\STM32MP157F-DK2\01_Project\Middlewares\Third_Party\OpenAMP\libmetal\lib\errno.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c\stdio.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c\stdarg.h \
+  C:\Users\Innova_Emb\STM32Cube\STM32MP157F-DK2\01_Project\EWARM/../Middlewares/Third_Party/OpenAMP/libmetal/lib/include\metal/system/generic/./template/sys.h
